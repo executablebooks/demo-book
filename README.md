@@ -1,6 +1,6 @@
 # My Book
 
-This repo contains a simple Jupyter Book.
+This repo contains a simple Jupyter Book using JupyterBook v1.
 
 ## Usage
 
